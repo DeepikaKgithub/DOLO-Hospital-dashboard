@@ -10,7 +10,7 @@ This is an interactive Power BI dashboard created for **DOLO Hospital** to monit
 
 The dashboard covers various hospital performance indicators, including:
 
-- **Admit / Discharge / Follow-up Dates**  
+- **Admit / Discharge / Follow-Up Dates**  
 - **Patient Billing Amounts**  
 - **Bed Occupancy** (Private, General, ICU)  
 - **Feedback Volume for Doctors**  
